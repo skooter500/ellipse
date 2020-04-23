@@ -5,6 +5,8 @@ void setup()
 
 void draw()
 {
+  background(0);
   ellipse(width / 2, height / 2, 50, 50);
   rect(10, 10, 100, 100);
+  
 }
